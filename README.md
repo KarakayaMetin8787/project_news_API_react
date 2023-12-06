@@ -4,7 +4,7 @@ This project intended to learn the usage of APIs in REACT. I created a Webpage t
 Each Result leads to a new Page with additional information and the link to the news source. To not lose search results, I made sure to open a new tab when
 clicking on the source link and also created a secondary main page that refetches the indormation previously entered. For this to work the BACK button needs to be used and not the back function of the browser.
 
-## Newly learned methods:
+## Newly learned methods
 
 - useParams
 - useEffect
@@ -20,7 +20,7 @@ clicking on the source link and also created a secondary main page that refetche
 
 ![App Screenshot](./src/assets/screenshot2.png)
 
-## Demo:
+## Demo
 
 ![App Screenshot](./src/assets/demo.gif)
 
