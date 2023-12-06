@@ -30,5 +30,5 @@ https://news-api-fa0aa.firebaseapp.com/
 
 ## Autors
 
-This project was intended to be done solo and was created enterely by me:
+This project was intended to be done solo and was created entirely by me:
 [Metin Karakaya](https://github.com/KarakayaMetin8787)
