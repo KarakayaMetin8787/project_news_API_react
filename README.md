@@ -20,9 +20,9 @@ clicking on the source link and also created a secondary main page that refetche
 
 ![App Screenshot](./src/assets/screenshot2.png)
 
-## Try it out:
+## Demo:
 
-https://news-api-fa0aa.firebaseapp.com/
+![App Screenshot](./src/assets/demo.gif)
 
 ## Flowchart / Programmablaufsplan
 
