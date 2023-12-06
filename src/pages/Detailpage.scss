@@ -1,0 +1,43 @@
+.singleArticle {
+    grid-column: 2/3;
+    padding: 32px;
+    height: 100vh;
+    .backButton {
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        right: 20px;
+        top: 20px;
+        text-decoration: none;
+        font-weight: 700;
+        color: black;
+        font-size: 1.5rem;
+        &::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 0;
+            height: 4px;
+            background-color: black;
+            transition: width 0.15s ease;
+        }
+        &:hover::after {
+        width: 100%;
+        }
+    }
+    h2 {
+        font-size: 2rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    img {
+        margin-block: 16px;
+        max-width: 100%;
+        max-height: 600px;
+    }
+    p:nth-of-type(1) {
+        font-size: 1.5rem;
+    }
+    hr {
+        margin-block: 8px;
+    }
+}
