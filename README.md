@@ -12,7 +12,7 @@ clicking on the source link and also created a secondary main page that refetche
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,sass,firebase,git,guthub,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,sass,firebase,git,github,vscode)](https://skillicons.dev)
 
 ## Screenshots
 
@@ -22,7 +22,7 @@ clicking on the source link and also created a secondary main page that refetche
 
 ## Try it out:
 
-https://karakayametin8787.github.io/Project_Quiz/
+https://news-api-fa0aa.firebaseapp.com/
 
 ## Flowchart / Programmablaufsplan
 
