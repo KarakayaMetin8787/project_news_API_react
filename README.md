@@ -28,7 +28,7 @@ https://news-api-fa0aa.firebaseapp.com/
 
 ![App Screenshot](./src/assets/flowchart.jpeg)
 
-## Autors
+## Authors
 
 This project was intended to be done solo and was created entirely by me:
 [Metin Karakaya](https://github.com/KarakayaMetin8787)
